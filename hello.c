@@ -10,4 +10,5 @@ main()
         j = j + i;
 
     printf("Hello World, this is Jason Lai\n");
+    printf("Hello World, this is Dog 1\n");
 }
