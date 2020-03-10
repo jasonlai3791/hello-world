@@ -16,4 +16,5 @@ main()
     printf("Hello World, this is Monster 2\n");
     printf("Hello World, this is Fish 1\n");
     printf("Hello World, this is Fish 2\n");
+    printf("Hello World, this is Fetch 1\n");
 }
